@@ -1,0 +1,25 @@
+﻿@using DataAccessLayer.Models
+@model IEnumerable<NewsArticle>
+@{
+    ViewData["Title"] = "Trang Chủ";
+}
+<h2>@ViewData["Title"]</h2>
+
+@if (Model.Any())
+{
+    <ul>
+        @foreach (var news in Model)
+        {
+            <li>
+                <a asp-controller="News" asp-action="Details" asp-route-id="@news.NewsArticleId">
+                    @news.NewsTitle
+                </a>
+                <span>(@news.CreatedDate?.ToString("dd/MM/yyyy"))</span>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>Không có bài viết nào.</p>
+}

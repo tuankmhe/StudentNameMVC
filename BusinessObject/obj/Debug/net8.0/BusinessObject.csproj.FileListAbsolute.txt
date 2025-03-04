@@ -1,0 +1,15 @@
+D:\StudentNameMVC\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\StudentNameMVC\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\StudentNameMVC\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\StudentNameMVC\BusinessObject\bin\Debug\net8.0\DataAccessLayer.dll
+D:\StudentNameMVC\BusinessObject\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\StudentNameMVC\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\StudentNameMVC\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentNameMVC\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\StudentNameMVC\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\StudentNameMVC\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\StudentNameMVC\BusinessObject\obj\Debug\net8.0\Business.4FFE46AD.Up2Date
+D:\StudentNameMVC\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\StudentNameMVC\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\StudentNameMVC\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\StudentNameMVC\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll

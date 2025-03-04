@@ -1,0 +1,959 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\StudentNameMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44B50E-543B-4303-A943-977F9550482F}|DataAccessLayer\\DataAccessLayer.csproj|d:\\download\\studentnamemvc\\dataaccesslayer\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44B50E-543B-4303-A943-977F9550482F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\profile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\profile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\genericrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\genericrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\services\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\services\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44B50E-543B-4303-A943-977F9550482F}|DataAccessLayer\\DataAccessLayer.csproj|d:\\download\\studentnamemvc\\dataaccesslayer\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44B50E-543B-4303-A943-977F9550482F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44B50E-543B-4303-A943-977F9550482F}|DataAccessLayer\\DataAccessLayer.csproj|d:\\download\\studentnamemvc\\dataaccesslayer\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44B50E-543B-4303-A943-977F9550482F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\repositories\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\repositories\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44B50E-543B-4303-A943-977F9550482F}|DataAccessLayer\\DataAccessLayer.csproj|d:\\download\\studentnamemvc\\dataaccesslayer\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44B50E-543B-4303-A943-977F9550482F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44B50E-543B-4303-A943-977F9550482F}|DataAccessLayer\\DataAccessLayer.csproj|d:\\download\\studentnamemvc\\dataaccesslayer\\models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44B50E-543B-4303-A943-977F9550482F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|d:\\download\\studentnamemvc\\businessobject\\genericrepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D73EB-CC6F-4275-800D-39CEB73F498E}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\genericrepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|d:\\download\\studentnamemvc\\studentname_classcode_a01.sln\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{534C0FBF-F736-4610-A655-F922754F3378}|StudentName_ClassCode_A01.sln\\StudentName_ClassCode_A01.csproj|solutionrelative:studentname_classcode_a01.sln\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:88:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:102:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:52:08.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:06:59.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Services\\ICategoryService.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "BusinessObject\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:30:15.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:51:54.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:50:45.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T07:30:47.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\News\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\News\\Details.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\News\\Details.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\News\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T07:44:57.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\News\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\News\\Delete.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\News\\Delete.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\News\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:49:40.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Program.cs",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Program.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Program.cs",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:35:25.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Startup.cs",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Startup.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Startup.cs",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Startup.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:35:30.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAIUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:26:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwBkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:44:32.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:02:22.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwFoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:46:17.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Services\\IAccountService.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\IAccountService.cs",
+              "RelativeToolTip": "BusinessObject\\Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:52:09.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SystemAccount.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\DataAccessLayer\\Models\\SystemAccount.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\SystemAccount.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\DataAccessLayer\\Models\\SystemAccount.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\SystemAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:51:38.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BusinessObject\\Services\\CategoryService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wCQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:30:26.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Repositories\\TagRepository.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\TagRepository.cs",
+              "RelativeToolTip": "BusinessObject\\Repositories\\TagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:32:43.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewsRepository.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\NewsRepository.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Repositories\\NewsRepository.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\NewsRepository.cs",
+              "RelativeToolTip": "BusinessObject\\Repositories\\NewsRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:39:52.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Repositories\\ITagRepository.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\ITagRepository.cs",
+              "RelativeToolTip": "BusinessObject\\Repositories\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:32:55.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Services\\AccountService.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\AccountService.cs",
+              "RelativeToolTip": "BusinessObject\\Services\\AccountService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:52:33.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAApwHoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:55:12.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "BusinessObject\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:49:29.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "BusinessObject\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:28:47.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "BusinessObject\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:50:55.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T03:56:50.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:46:27.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\News\\Create.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\News\\Create.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:48:55.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Profile\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Profile\\Edit.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Profile\\Edit.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Profile\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:47:16.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\News\\Index.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:48:21.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\News\\Edit.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\News\\Edit.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\News\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:49:20.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T07:10:41.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:52:22.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:51:03.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Account\\Create.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Account\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:45:26.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Account\\Edit.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Account\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:45:54.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:59:46.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:09:38.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T09:08:52.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T09:08:53.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T09:09:06.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\GenericRepository\\Repository.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\GenericRepository\\Repository.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\GenericRepository\\Repository.cs",
+              "RelativeToolTip": "BusinessObject\\GenericRepository\\Repository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:47:27.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "BusinessObject\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:28:38.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Services\\NewsService.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\NewsService.cs",
+              "RelativeToolTip": "BusinessObject\\Services\\NewsService.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAEwDUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:20:56.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\INewsService.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Services\\INewsService.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Services\\INewsService.cs",
+              "RelativeToolTip": "BusinessObject\\Services\\INewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:19:38.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:55:46.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\DataAccessLayer\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Tag.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\DataAccessLayer\\Models\\Tag.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:50:31.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\DataAccessLayer\\Models\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\NewsArticle.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\DataAccessLayer\\Models\\NewsArticle.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\NewsArticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:50:28.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:47:13.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "INewsRepository.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\INewsRepository.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Repositories\\INewsRepository.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\Repositories\\INewsRepository.cs",
+              "RelativeToolTip": "BusinessObject\\Repositories\\INewsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:39:44.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\DataAccessLayer\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Category.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\DataAccessLayer\\Models\\Category.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:50:25.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FunewsManagementContext.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\DataAccessLayer\\Models\\FunewsManagementContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\FunewsManagementContext.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\DataAccessLayer\\Models\\FunewsManagementContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\FunewsManagementContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:35:53.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\BusinessObject\\GenericRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\GenericRepository\\IRepository.cs",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\BusinessObject\\GenericRepository\\IRepository.cs",
+              "RelativeToolTip": "BusinessObject\\GenericRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:47:13.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentName_ClassCode_A01.sln\\appsettings.json",
+              "ToolTip": "D:\\Download\\StudentNameMVC\\StudentName_ClassCode_A01.sln\\appsettings.json",
+              "RelativeToolTip": "StudentName_ClassCode_A01.sln\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T03:36:19.45Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

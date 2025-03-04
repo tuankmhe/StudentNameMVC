@@ -1,0 +1,29 @@
+﻿@model DataAccessLayer.Models.NewsArticle
+@{
+    ViewData["Title"] = "Confirm Delete News";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-warning">
+    <p>Are you sure you want to delete the following news article?</p>
+</div>
+
+<dl class="row">
+    <dt class="col-sm-3">Title</dt>
+    <dd class="col-sm-9">@Model.NewsTitle</dd>
+
+    <dt class="col-sm-3">Created Date</dt>
+    <dd class="col-sm-9">@Model.CreatedDate?.ToString("dd/MM/yyyy")</dd>
+</dl>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="NewsArticleId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

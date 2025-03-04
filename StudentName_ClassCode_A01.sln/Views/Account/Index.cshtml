@@ -1,0 +1,49 @@
+﻿@model IEnumerable<DataAccessLayer.Models.SystemAccount>
+@{
+    ViewData["Title"] = "Manage Accounts";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div class="row mb-3">
+    <div class="col-md-4">
+        <form method="get" asp-action="Index">
+            <div class="input-group">
+                <input type="text" name="searchString" class="form-control" placeholder="Search account..." />
+                <button type="submit" class="btn btn-secondary">Tìm kiếm</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-8 text-end">
+        <a asp-action="Create" class="btn btn-primary">Tạo tài khoản mới</a>
+    </div>
+</div>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Tên</th>
+            <th>Quyền</th>
+            <th>Hành Động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var acc in Model)
+        {
+            <tr>
+                <td>@acc.AccountEmail</td>
+                <td>@acc.AccountName</td>
+                <td>
+                    @(acc.AccountRole == 3 ? "Quản trị" :
+                        acc.AccountRole == 1 ? "Nhân Viên" :
+                        acc.AccountRole == 2 ? "Giảng Viên" : "Unknown")
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@acc.AccountId" class="btn btn-warning btn-sm">Chỉnh sửa</a>
+                    <a asp-action="Delete" asp-route-id="@acc.AccountId" class="btn btn-danger btn-sm"
+                       onclick="return confirm('Are you sure to delete this account?');">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

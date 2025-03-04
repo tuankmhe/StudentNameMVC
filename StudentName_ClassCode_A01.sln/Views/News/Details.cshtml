@@ -1,0 +1,33 @@
+﻿@using DataAccessLayer.Models
+@model NewsArticle
+@{
+    ViewData["Title"] = "Chi tiết bài viết";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">Tiêu đề</dt>
+        <dd class="col-sm-10">@Model.NewsTitle</dd>
+        <dt class="col-sm-2">Headline</dt>
+        <dd class="col-sm-10">@Model.Headline</dd>
+        <dt class="col-sm-2">Nội dung</dt>
+        <dd class="col-sm-10">@Model.NewsContent</dd>
+        <dt class="col-sm-2">Nguồn tin</dt>
+        <dd class="col-sm-10">@Model.NewsSource</dd>
+        <dt class="col-sm-2">Ngày tạo</dt>
+        <dd class="col-sm-10">@Model.CreatedDate?.ToString("dd/MM/yyyy")</dd>
+        <dt class="col-sm-2">Tag</dt>
+        <dd class="col-sm-10">
+            @if (Model.Tags != null && Model.Tags.Any())
+            {
+                foreach (var tag in Model.Tags)
+                {
+                    <span class="badge badge-info">@tag.TagName</span>
+                }
+            }
+        </dd>
+    </dl>
+</div>
+
+<a asp-action="Index" class="btn btn-primary">Quay lại</a>

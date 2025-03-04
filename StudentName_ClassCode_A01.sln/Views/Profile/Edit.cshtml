@@ -1,0 +1,22 @@
+﻿@model DataAccessLayer.Models.SystemAccount
+@{
+    ViewData["Title"] = "Edit Profile";
+}
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="AccountId" />
+    <div class="mb-3">
+        <label asp-for="AccountEmail" class="form-label"></label>
+        <input asp-for="AccountEmail" class="form-control" readonly />
+        <span asp-validation-for="AccountEmail" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="AccountName" class="form-label"></label>
+        <input asp-for="AccountName" class="form-control" />
+        <span asp-validation-for="AccountName" class="text-danger"></span>
+    </div>
+    <!-- Nếu cần cho phép đổi mật khẩu, thêm field Password -->
+    <button type="submit" class="btn btn-primary">Lưu</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

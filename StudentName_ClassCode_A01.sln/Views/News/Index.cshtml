@@ -1,0 +1,41 @@
+﻿@using DataAccessLayer.Models
+@model IEnumerable<NewsArticle>
+@{
+    ViewData["Title"] = "Danh sách bài viết";
+}
+<h2>@ViewData["Title"]</h2>
+
+@* <form method="get" asp-action="Index">
+    <div class="form-group">
+        <input type="text" name="searchKeyword" placeholder="Tìm kiếm bài viết" class="form-control" value="@Request.Query["searchKeyword"]" />
+    </div>
+    <button type="submit" class="btn btn-secondary">Tìm kiếm</button>
+</form> *@
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Tiêu đề</th>
+            <th>Ngày tạo</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.NewsTitle</td>
+                <td>@item.CreatedDate?.ToString("dd/MM/yyyy")</td>
+                <td>@(item.NewsStatus.HasValue && item.NewsStatus.Value ? "Họat động" : "Không hoạt động")</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.NewsArticleId" class="btn btn-info btn-sm">Chi tiết</a>
+                    <a asp-action="Edit" asp-route-id="@item.NewsArticleId" class="btn btn-warning btn-sm">Sửa</a>
+                    <a asp-action="Delete" asp-route-id="@item.NewsArticleId" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Tạo bài viết mới</a>

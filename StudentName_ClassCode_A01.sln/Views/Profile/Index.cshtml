@@ -1,0 +1,22 @@
+﻿@model DataAccessLayer.Models.SystemAccount
+@{
+    ViewData["Title"] = "My Profile";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div class="card">
+    <div class="card-body">
+        <p><strong>Email:</strong> @Model.AccountEmail</p>
+        <p><strong>Tên:</strong> @Model.AccountName</p>
+        <p>
+            <strong>Quyền:</strong>
+            @(Model.AccountRole == 1 ? "Nhân Viên" :
+                Model.AccountRole == 2 ? "Giảng Viên" :
+                Model.AccountRole == 3 ? "Quản Trị" : "Unknown")
+        </p>
+        <!-- Các trường khác nếu cần -->
+    </div>
+</div>
+<p>
+    <a class="btn btn-primary" asp-action="Edit">Chỉnh sửa hồ sơ</a>
+</p>
